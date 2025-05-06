@@ -1,0 +1,7 @@
+name: DeepCNN Classifier
+version: 1.0.0
+type: classification
+inputShape: [16000]
+outputLabels:
+  - Absent
+  - Present
